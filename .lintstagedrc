@@ -1,0 +1,4 @@
+{
+  "*.{js,jsx,ts,tsx}": ["npm run format:precommit", "npm run lint:fix"],
+  "*.{json,md}": ["npm run format:precommit"]
+}

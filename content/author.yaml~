@@ -1,0 +1,26 @@
+- id: rmjordas
+  name: Rodger Jordas
+  bio: Core Team Member at Project Unicorn
+  github: rmjordas
+  avatar: ./assets/rmjordas.png
+- id: rmoran
+  name: Roy Moran
+  bio: Core Team Member at Project Unicorn
+  github: roymoran
+  avatar: ./assets/rmoran.jpeg
+- id: rickyjw
+  name: Ricky JW
+  bio: Core Team Member at Project Unicorn
+  github: rickywid
+  avatar: ./assets/rickywid.png
+- id: dclark
+  name: Damon Clark
+  bio: Core Team Member at Project Unicorn
+  github: damonclark
+  avatar: ./assets/dclark.png
+
+- id: mostapha
+  name: Mostapha Benhenda
+  bio: Data Scientist at Melwy
+  github: mostafachatillon
+  avatar: ./assets/mostapha.jpeg
